@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="judul deskripsi">
+  <title id="judul">Flyer contoh seminar</title>
+  <desc id="deskripsi">Ilustrasi abstrak berwarna biru untuk flyer seminar.</desc>
+  <rect width="1200" height="675" fill="#192b70"/>
+  <circle cx="1000" cy="115" r="290" fill="#3858d6"/>
+  <circle cx="1050" cy="570" r="220" fill="#28b8a4"/>
+  <path d="M0 520C210 410 320 690 565 565s300-220 482-126 90 220 153 236H0z" fill="#233e9f"/>
+  <path d="M0 596c207-94 346-9 500-74 213-90 271-219 430-154s183 134 270 135v172H0z" fill="#2f46c8"/>
+  <text x="88" y="188" fill="#b8c5ff" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="3">RUANG BELAJAR BERSAMA</text>
+  <text x="84" y="310" fill="#ffffff" font-family="Arial,sans-serif" font-size="72" font-weight="700">Seminar</text>
+  <text x="88" y="368" fill="#ffffff" font-family="Arial,sans-serif" font-size="34">Ide baru, percakapan bermakna.</text>
+  <path d="M88 420h112" stroke="#f4c95d" stroke-width="8" stroke-linecap="round"/>
+</svg>
